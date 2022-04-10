@@ -1,4 +1,6 @@
 # Make-a-spiral
+#[CodeWar](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
+
 #Your task, is to create a NxN spiral with a given size.
 #
 # For example, spiral with size 5 should look like this:
@@ -23,4 +25,3 @@
 # Because of the edge-cases for tiny spirals, the size will be at least 5.
 # 
 # General rule-of-a-thumb is, that the snake made with '1' cannot touch to itself.
-# [CodeWar](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
